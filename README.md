@@ -4,7 +4,7 @@
 
 # 项目 1：vite + vue3 + TS + antd 框架
 
-    项目分支：`vue3-vite-ts-antd`
+    项目分支：`learn-vue3-vite-ts-antd`
 
    ## 主要内容：
 
